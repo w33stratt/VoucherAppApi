@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+.vscode/
+VoucherApp/bin/
+VoucherApp/appsettings.json
+appsettings.json
